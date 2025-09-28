@@ -49,7 +49,7 @@ O Chrome abrirá e realizará todos os passos automaticamente.
 
 O PDF será salvo em downloads_ava/ quando o download terminar.
 
-##⚡ Observações
+## ⚡ Observações
 O navegador fica aberto para acompanhar os cliques.
 
 O script espera automaticamente até o download terminar, sem precisar de time.sleep.
