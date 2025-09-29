@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # === CONFIGURAÇÕES ===
 URL = "https://ava.grupoceuma.com.br"
-LOGIN = "07694015110"     
-SENHA = "123456789"        
+LOGIN = "seu_usuario_aqui"
+SENHA = "sua_senha_aqui"      
 DOWNLOAD_DIR = os.path.join(os.getcwd(), "downloads_ava")
 
 # === CAMINHO DO CHROMEDRIVER ===
@@ -68,3 +68,4 @@ def baixar_globo_pdf():
 
 if __name__ == "__main__":
     baixar_globo_pdf()
+
